@@ -1,5 +1,5 @@
-import streamlit as st
-import pandas as pd
-import joblib
-from transformers import add_interactions
-import numpy as np
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
